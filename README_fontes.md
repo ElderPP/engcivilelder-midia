@@ -8,6 +8,7 @@ crédito não se perca do arquivo.
 |---|---|---|---|
 | `2026-09-26-corpos-de-prova.jpg` | Corpos de prova de concreto em paletes, numerados a mão | Reuse Warehouse Houston/Flickr, CC BY 2.0 | https://www.flickr.com/photo.gne?id=4822056630 |
 | `2026-09-27-viaduto.jpg` | Viaduto rodoviário em serra, vista aérea | Rafa Neddermeyer/Agência Brasil, CC BY 3.0 BR | https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/brasil-deve-dobrar-investimentos-para-zerar-deficit-em-infraestrutura |
+| `2026-09-28-palacio-buriti.jpg` | Fachada do Palácio do Buriti (sede do governo do DF), recorte de foto de evento de 2019 | José Cruz/Agência Brasil (recorte), CC BY 3.0 BR | https://agenciabrasil.ebc.com.br/foto/2019-10/gdf-lanca-projeto-de-compartilhamento-de-veiculos-eletricos-1581292376-4 |
 | `2026-09-29-cantagalo-desabamento.jpg` | Escombros do prédio que desabou no Morro do Cantagalo (RJ), 23/09/2026 | Divulgação/CBMERJ | https://folhadoleste.com.br/predio-desaba-cantagalo-sete-imoveis-interditados/ |
 | `2026-09-30-duplicacao-dutra.jpg` | Vista aérea do canteiro de obras da duplicação da Rodovia Dutra na Serra das Araras (RJ) | Ricardo Stuckert/PR (Agência Brasil) | https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/ampliacao-da-dutra-no-grande-rio-deve-ser-concluida-em-um-ano |
 | `2026-10-01-rodovia-dutra-fiscobras.jpg` | Tráfego de veículos na Rodovia Presidente Dutra (BR-116) | Rovena Rosa/Agência Brasil, CC BY 3.0 BR | https://agenciabrasil.ebc.com.br/geral/noticia/2022-11/pesquisa-da-cnt-aponta-continua-deterioracao-das-rodovias-brasileiras |
